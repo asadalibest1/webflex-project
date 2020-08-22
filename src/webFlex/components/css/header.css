@@ -1,0 +1,36 @@
+/* ./images/green-natural-leaves-2.jpg */
+.header-div{
+    background-image: url("../images/birdwall.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 400px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  display: flex;
+  padding: 50px;
+  /* justify-content: center; */
+  align-items: center;
+
+}
+
+.inner-div Button{
+    width: 200px;
+    height: 40px;
+    margin-top: 5px;
+}
+
+@media only screen and (max-width: 768px) {
+  .header-div{
+    background-image: url("../images/birdwall.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 400px; /* You must set a specified height */
+  background-position: 40%; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  display: flex;
+  padding: 50px;
+  /* justify-content: center; */
+  align-items: center;
+
+}
+}

@@ -1,0 +1,26 @@
+.mobileMenu{
+    color: white;
+    font-size: 28px;
+    display: inline;
+    line-height: 60px;
+    list-style: none;
+    text-align: center; 
+}
+.mobileMenu:focus{
+    color: red;
+}
+
+.Dialog{
+    background-color:rgba(36, 39, 44, 0.8)
+}
+.services{
+        background-color: rgba(36, 39, 44, 0.9);
+        border-radius: 0px solid black;
+        color: white;
+        width: fit-content;
+        padding: 0 5px;
+        text-indent: 5px;
+        height: 50px;
+        font-size: 20px;
+        text-align-last: center;
+}

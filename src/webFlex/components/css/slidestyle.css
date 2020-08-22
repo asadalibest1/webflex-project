@@ -1,0 +1,72 @@
+.main-grid1, .main-grid2{
+    width: 100%;
+    /* padding: 80px 50px; */
+    height: fit-content;
+}
+.grid1, .grid2{
+    /* border: 3px solid red; */
+    display: inline-flex;
+    align-items: center;
+    padding: 50px;
+}
+.main-grid2 .grid2 h1{
+    font-size: 3.5em;
+}
+.main-grid3 .grid2, .main-grid4 h2{
+    text-align: center;
+    
+}
+
+.main-grid4 .grid1, .main-grid4 .grid2{
+    padding: 10px 0;
+}
+.textfield{
+    margin: 10px 0;
+}
+.paper{
+    margin: 0 auto;
+    padding-bottom: 20px;
+    width: 90%;
+    height: fit-content;
+}
+.paper div h2{
+    text-align: left;    
+}
+.paper div label{
+    font-weight: normal;
+    font-size: 16px;
+    border-radius: 50%;
+    padding: 5px 10px;
+    background-color: skyblue;
+}
+.paper div{
+    text-align: left;
+    padding: 20px;
+}
+.skill{
+    width: 100%;
+    height: 300px;
+}
+.join{
+    width: 220px;
+}
+.slide-para{
+    font-size: 22px;
+    line-height: 28px;
+}
+.slide-img{
+    /* border: 3px solid black; */
+    width: 100%;
+    height: 400px;
+}
+@media only screen and (max-width: 768px) {
+    /* For mobile: */
+    .main-grid2, .main-grid3{display: flex; flex-direction: column-reverse;}
+    .main-grid1 .grid2{ padding: 6px;}
+    .main-grid2 .grid1{ padding: 6px;}
+    .main-grid1, .main-grid2{text-align: center;}   
+    .slide-para{font-size: 21px; line-height: 30px;}
+    .main-grid2 .grid2 h1{font-size: 2.3em;}
+    .main-grid3 .grid1{padding: 0 5px;}
+    .main-grid4 .paper{width: 95%; }
+}
