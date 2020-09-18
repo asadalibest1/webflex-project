@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e896efbf09e6c39c8ca354b8e59c108d",
+    "revision": "e90b7834f461df36be8438f6f98840f2",
     "url": "/webflex-project/index.html"
   },
   {
-    "revision": "83cd62c16886bcc0cc98",
+    "revision": "bfde953a256b2bd82cc0",
     "url": "/webflex-project/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "7c4c54ac8b462639e9b4",
-    "url": "/webflex-project/static/css/main.9daf01ae.chunk.css"
+    "revision": "dba6c7517a446ce3fe76",
+    "url": "/webflex-project/static/css/main.b9b370b1.chunk.css"
   },
   {
-    "revision": "83cd62c16886bcc0cc98",
-    "url": "/webflex-project/static/js/2.f9f66e86.chunk.js"
+    "revision": "bfde953a256b2bd82cc0",
+    "url": "/webflex-project/static/js/2.e1a984d9.chunk.js"
   },
   {
     "revision": "8dea9a823bfb24207fef47cb32cf30ad",
-    "url": "/webflex-project/static/js/2.f9f66e86.chunk.js.LICENSE.txt"
+    "url": "/webflex-project/static/js/2.e1a984d9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7c4c54ac8b462639e9b4",
-    "url": "/webflex-project/static/js/main.7c44caa9.chunk.js"
+    "revision": "dba6c7517a446ce3fe76",
+    "url": "/webflex-project/static/js/main.54d187df.chunk.js"
   },
   {
     "revision": "73fed02bdb057204b015",

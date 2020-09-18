@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/webflex-project/static/css/main.9daf01ae.chunk.css",
-    "main.js": "/webflex-project/static/js/main.7c44caa9.chunk.js",
-    "main.js.map": "/webflex-project/static/js/main.7c44caa9.chunk.js.map",
+    "main.css": "/webflex-project/static/css/main.b9b370b1.chunk.css",
+    "main.js": "/webflex-project/static/js/main.54d187df.chunk.js",
+    "main.js.map": "/webflex-project/static/js/main.54d187df.chunk.js.map",
     "runtime-main.js": "/webflex-project/static/js/runtime-main.93b05924.js",
     "runtime-main.js.map": "/webflex-project/static/js/runtime-main.93b05924.js.map",
     "static/css/2.4707e12a.chunk.css": "/webflex-project/static/css/2.4707e12a.chunk.css",
-    "static/js/2.f9f66e86.chunk.js": "/webflex-project/static/js/2.f9f66e86.chunk.js",
-    "static/js/2.f9f66e86.chunk.js.map": "/webflex-project/static/js/2.f9f66e86.chunk.js.map",
+    "static/js/2.e1a984d9.chunk.js": "/webflex-project/static/js/2.e1a984d9.chunk.js",
+    "static/js/2.e1a984d9.chunk.js.map": "/webflex-project/static/js/2.e1a984d9.chunk.js.map",
     "index.html": "/webflex-project/index.html",
-    "precache-manifest.3e2f0a1c14821b1c37f4066425da6efc.js": "/webflex-project/precache-manifest.3e2f0a1c14821b1c37f4066425da6efc.js",
+    "precache-manifest.157477906c92061655f97187154f3714.js": "/webflex-project/precache-manifest.157477906c92061655f97187154f3714.js",
     "service-worker.js": "/webflex-project/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/webflex-project/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.9daf01ae.chunk.css.map": "/webflex-project/static/css/main.9daf01ae.chunk.css.map",
-    "static/js/2.f9f66e86.chunk.js.LICENSE.txt": "/webflex-project/static/js/2.f9f66e86.chunk.js.LICENSE.txt",
+    "static/css/main.b9b370b1.chunk.css.map": "/webflex-project/static/css/main.b9b370b1.chunk.css.map",
+    "static/js/2.e1a984d9.chunk.js.LICENSE.txt": "/webflex-project/static/js/2.e1a984d9.chunk.js.LICENSE.txt",
     "static/media/header.css": "/webflex-project/static/media/birdwall.94486e8b.jpg",
     "static/media/image1.gif": "/webflex-project/static/media/image1.d8b3e1dc.gif",
     "static/media/image2.png": "/webflex-project/static/media/image2.af3aff65.png",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.93b05924.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.f9f66e86.chunk.js",
-    "static/css/main.9daf01ae.chunk.css",
-    "static/js/main.7c44caa9.chunk.js"
+    "static/js/2.e1a984d9.chunk.js",
+    "static/css/main.b9b370b1.chunk.css",
+    "static/js/main.54d187df.chunk.js"
   ]
 }
