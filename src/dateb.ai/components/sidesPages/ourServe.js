@@ -59,7 +59,7 @@ export default function OurServe() {
                   data-aos-once="false"
                   // data-aos-anchor-placement="top-bottom"          
           >
-            <Paper className="paper" elevation={3} square>
+            <Paper className="paper" elevation={3} square >
         <img className="skill" src="https://www.digiquestacademy.edu.in/wp-content/uploads/2019/10/Graphic-Designing1.jpg" alt="graphic designing" />
         <div>
           <h2>Graphic Desinging <label> best </label></h2>

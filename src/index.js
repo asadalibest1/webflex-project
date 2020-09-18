@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import App from './webFlex/App';
+import App from './dateb.ai/App';
 // import App from './prac/App';
 
 import * as serviceWorker from './serviceWorker';

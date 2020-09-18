@@ -19,7 +19,7 @@ export default function Header() {
             <p>Collections of color components for material-ui. No dependencies, small, highly<br /> customizable and theming support !</p>
 
             <Button variant="outlined" color="primary">
-                    Primary
+                    Get Started
             </Button>
             </div>
         </div>
